@@ -1,0 +1,12 @@
+content:
+- LocalDate
+- Types and variables
+- Comments
+- Scanning the input
+- Relational operators
+- LocalTime
+- LocalDateTime
+- Comparing dates and time
+- The utility class Collections
+- Builder
+- Abstract class

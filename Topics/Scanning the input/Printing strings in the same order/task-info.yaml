@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Task.java
+  visible: true
+  text: "// write your answer here \n\npublic class Task {\n  public static void main(String[]\
+    \ args) {\n    // put your code here\n  }\n}\n"
+  learner_created: false
+- name: src/Main.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2923#comment
+status: Failed
+feedback:
+  message: 'Unknown language: java11. Please reload the page and try again'
+  time: Wed, 22 Dec 2021 06:36:14 UTC
+record: -1
